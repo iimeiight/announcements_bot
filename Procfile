@@ -1,1 +1,1 @@
-web: java -jar target\tgbot-jar-with-dependencies.jar
+web: java -jar target/tgbot-jar-with-dependencies.jar
